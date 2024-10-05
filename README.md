@@ -8,7 +8,7 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 
 <br>
 
-**🧸 Interest**<br>
+**🧸 Likes**<br>
 <code>📷Photograph</code>
 <code>✈️Travel</code>
 
