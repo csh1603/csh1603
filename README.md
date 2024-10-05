@@ -37,7 +37,7 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 
 <br>
 
-### 📝 Vlog
+### 📝 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=csh1603)](https://velog.io/@csh1603)
 
 <br>
