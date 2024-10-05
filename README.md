@@ -1,7 +1,7 @@
 ## Welcome 👋
 
 Welcome to my **GitHub** page!<br>
-My name is Seunghyun Cho, you can call me Amy :)<br>
+My name is **Seunghyun Cho** and if you want, you can call me **Amy** :)<br>
 I am currently a student at Ewha Womans University, majoring in Cyber Security🔒.<br>
 
 Feel free to look at my page and if you have any questions, don't hesitate to get in touch with me!
