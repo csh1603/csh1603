@@ -5,11 +5,12 @@ I am currently a student at Ewha Womans University, majoring in Cyber Security�
 
 Feel free to look at my page and if you have any questions, don't hesitate to get in touch with me!
 
+<br>
+
 ### 🧸 Interest
 <code>📷Photograph</code>
 <code>✈️Travel</code>
 
-<br>
 <br>
 
 ### 💫 Skill
@@ -20,7 +21,6 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <br>
-<br>
 
 ### 💡 IDE
 ![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -29,7 +29,6 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br>
-<br>
 
 ### ⚒️ Information
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csh1603)](https://github.com/anuraghazra/github-readme-stats)
@@ -37,12 +36,10 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 ![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh1603&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 <br>
-<br>
 
 ### 📝 Vlog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=csh1603)](https://velog.io/@csh1603)
 
-<br>
 <br>
 
 ### 📪 Contact
