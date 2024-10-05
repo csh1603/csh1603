@@ -5,12 +5,15 @@ I am currently a student at Ewha Womans University, majoring in Cyber Security�
 
 Feel free to look at my page and if you have any questions, don't hesitate to get in touch with me!
 
+
+
 ### 💫 Skill
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 
 ### 💡 IDE
@@ -20,18 +23,24 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
+
 <!--
 ### 🧸 Interest
--->
 
+
+
+-->
 ### ⚒️ Achievement
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csh1603)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh1603&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
+
 ### 📝 Vlog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=csh1603)](https://velog.io/@csh1603)
+
+
 
 ### 📪 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%8A%B9%ED%98%84-%EC%A1%B0-6ab016256/)
