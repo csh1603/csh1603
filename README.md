@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csh1603)](https://github.com/anuraghazra/github-readme-stats)
+
+![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh1603&hide=contribs,prs&show_icons=true&theme=graywhite)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=csh1603)](https://velog.io/@csh1603)
