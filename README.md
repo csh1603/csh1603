@@ -1,7 +1,7 @@
 ## Welcome 👋
 
 Welcome to my **GitHub** page!<br>
-My name is **Seunghyun Cho** and if you want, you can call me **Amy** :)<br>
+My name is **Seunghyun Cho** and you can call me **Amy** :)<br>
 I am currently a student at Ewha Womans University, majoring in Cyber Security🔒.<br>
 
 Feel free to look at my page and if you have any questions, don't hesitate to get in touch with me!
@@ -11,6 +11,7 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 **🧸 Likes**<br>
 <code>📷Photograph</code>
 <code>✈️Travel</code>
+<code>🥐Pastries</code>
 
 <br>
 
@@ -20,6 +21,8 @@ Feel free to look at my page and if you have any questions, don't hesitate to ge
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 
 <br>
 
