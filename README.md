@@ -2,7 +2,7 @@
 
 Welcome to my **GitHub** page!<br>
 My name is **Seunghyun Cho** and you can call me **Amy** :)<br>
-I am currently a student at Ewha Womans University, majoring in Cyber Security🔒.<br>
+I am currently a grad student at Purdue University, majoring in Cyber Security🔒.<br>
 
 Feel free to look at my page and if you have any questions, don't hesitate to get in touch with me!
 
